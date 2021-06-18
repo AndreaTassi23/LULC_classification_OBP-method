@@ -6,4 +6,4 @@ We assessed the advantages of integrating textural information in the pixel-base
 
 
 The Google Earth Engine code available is the OBP method that is based on the use of the panchromatic band:
-https://code.earthengine.google.com/36caa02abab2ef257fa683dbda39d05f
+https://code.earthengine.google.com/343b27fe39a4008cf4cee65ce9d29482
